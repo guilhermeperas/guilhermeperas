@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [https://guilhermeperas.github.io/portfolio/files/curriculo_guilherme_eng.pdf](https://guilhermeperas.github.io/portfolio/files/curriculo_guilherme_eng.pdf)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
